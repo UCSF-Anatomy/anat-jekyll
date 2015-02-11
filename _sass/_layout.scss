@@ -1,0 +1,369 @@
+/* Reset */
+
+* { margin: 0; padding: 0; }
+html { overflow-y: scroll;}
+body { background:#ffffff; font-size: 13px; color: #666666; font-family: Arial, helvetica, sans-serif;}
+ol, ul { list-style: none; margin: 0;}
+ul li { margin: 0; padding: 0;}
+h1 { margin-bottom: 10px; color: #111111;}	
+a, img { outline: none; border:none; color: #000; font-weight: bold; text-transform: uppercase;}
+p { margin: 0 0 10px; line-height: 1.4em; font-size: 1.2em;}
+img { display: block; margin-bottom: 10px;}
+aside { font-style: italic; font-size: 0.9em;}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section { 
+    display: block;
+	}
+	
+/*------------------------------------------------------------ */
+	
+/* Structure */
+#wrapper {
+	width: 96%;	
+	max-width: 920px;
+	margin: auto;
+	padding: 2%;
+	} 
+	
+	#main {
+		width: 60%;
+		margin-right: 5%;
+		float: left;
+		}		
+		
+	aside {
+			width: 35%;
+			float: right;
+			}
+
+		
+/* Title */
+
+	.UpperTitle
+	{
+    	text-align: center;
+		padding: 20px;
+		height: 50px;
+    	background-color: #178CCB;
+    	font-weight:bold;
+		font-size: 32px;
+    	color: #000000;
+    	border-radius: 0px;
+    	position: relative;
+		}
+
+/*lets re style this*/
+
+
+
+/* UCSF Banner */
+
+
+
+/* Layout */
+.top-banner, .top-banner div {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.top-banner {
+    background: #052049;
+    height: 32px;
+    font-family: "Helvetica Neue", "arial", sans-serif;
+    font-size: 14px;
+    text-align: center;
+    width: 100%;
+}
+
+.top-banner .inner {
+    margin: 0 auto;
+    width: 900px;
+}
+
+.top-banner div.inner div {
+    float: left;
+    padding: 8px 0 7px 30px;
+    text-align: left;
+}
+
+.top-banner.logo div.inner div {
+    padding: 13px 0 13px 0;
+}
+
+.top-banner.logo,.top-banner.logo .inner,.top-banner.logo div.inner div {
+    height: 40px;
+}
+
+.top-banner div.inner div.nav {
+    float: right;
+    padding-right: 16px;
+    text-align: right;
+}
+
+.top-banner ul, .top-banner li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+.top-banner a {
+    color: #ffffff;
+    display: inline;
+    text-decoration: none;
+}
+
+.top-banner a:hover {
+    text-decoration: underline;
+}
+
+.top-banner.logo .inner {
+    height: 40px;
+    background: url("../img/ucsf-logo-banner.png") 30px 50% no-repeat;
+    padding-left: 97px;
+}
+
+/**
+  * Browser-hack, targets everything but IE8 and below.
+  * @link http://browserhacks.com/#hack-1aaa2cce9e371d212109d5b1b8229ef6
+  */
+:root .top-banner.logo .inner {
+    background: url("../img/ucsf-logo-banner.svg") 30px 50% no-repeat;
+    background-size: 45px 22px;
+}
+
+.top-banner-menu a {
+    padding: 0 14px;
+}
+
+.top-banner.teal {
+    background: #18a3ac;
+}
+
+/* Responsive */
+@media screen and (min-width:660px) and (max-width:1229px) {
+    .top-banner .inner {
+        width: 100%;
+    };
+}
+
+@media screen and (max-width:659px) {
+    .top-banner.logo, .top-banner.logo .inner, .top-banner.logo div.inner div {
+        height: 30px;
+    }
+
+    .top-banner .inner {
+        width: 100%;
+    }
+
+    .top-banner.logo .inner {
+        background: url("../img/ucsf-logo-banner-mobile.png") 30px 50% no-repeat;
+        padding-left: 87px;
+    }
+
+    :root .top-banner.logo .inner {
+        background-size: 37px 18px;
+    }
+
+    .top-banner div.inner div {
+        height: 30px;
+        padding: 8px 0 8px 30px;
+        width: 100%;
+    }
+
+    .top-banner.logo div.inner div {
+        padding: 8px 0 8px 0;
+    }
+
+    .top-banner .logo span,.top-banner div.inner div.nav {
+        display: none;
+    };
+}
+
+/*end of the UCSF banner*/			
+
+/*	#banner {
+		float: left;
+		margin-bottom: 15px;
+		width: 100%;
+		}
+	#banner img {
+		width: 100%;
+		} */
+
+/*navagation*/
+
+#navigation {
+ margin: 0;
+ padding: 0 1em;
+ background: #000;
+
+ height: 3em;
+ list-style: none;
+}
+
+#navigation > li {
+ float: left;
+ height: 100%;
+	z-index: 1000;
+ margin-right: 0.5em;
+ padding: 0 1em;
+}
+
+#navigation > li > a {
+ float: left;
+ height: 100%;
+ color: #18A3AC;
+ text-decoration: none;
+ line-height: 3;
+ font-weight: bold;
+ text-transform: uppercase;
+}
+
+#navigation > li > a:hover {
+ color: #716FB2;
+ text-decoration: underline;
+}
+
+#navigation > li.sub {
+ position: relative;
+}
+
+#navigation > li.sub ul {
+ width: 10em;
+ margin: 0;
+ padding: 0.5em 0;
+ list-style: none;
+ background: #D1D3D3;
+ position: absolute;
+ top: -1000em;
+}
+
+#navigation > li.sub ul li {
+ width: 90%;
+ margin: 0 auto 0.3em auto;
+}
+
+#navigation > li.sub ul li a {
+ height: 100%;
+ display: block;
+ padding: 0.4em;
+ color: #fff;
+ font-weight: bold;
+ text-decoration: none;
+}
+
+#navigation > li.sub ul li a:hover {
+ background: #B4B9BF;
+ text-decoration: underline;
+}
+
+#navigation > li.sub:hover ul {
+ top: 3em;
+}
+
+
+
+/*
+ * Ideal Image Slider v1.0.2
+ *
+ * By Gilbert Pellegrom
+ * http://gilbert.pellegrom.me
+ *
+ * Free to use and abuse under the MIT license.
+ * https://raw.githubusercontent.com/gilbitron/Ideal-Image-Slider/master/LICENSE
+ */
+
+.ideal-image-slider {
+	position: relative;
+	overflow: hidden; 
+}
+
+.iis-slide {
+	display: block;
+	bottom: 0;
+	text-decoration: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: cover;
+	text-indent: -9999px;
+}
+
+/* Slide effect */
+.iis-effect-slide .iis-slide {
+	opacity: 0;
+	-webkit-transition-property: -webkit-transform;
+       -moz-transition-property: -moz-transform;
+    	 -o-transition-property: -o-transform;
+    		transition-property: transform;
+	-webkit-transition-timing-function: ease-out;
+       -moz-transition-timing-function: ease-out;
+    	 -o-transition-timing-function: ease-out;
+    		transition-timing-function: ease-out;
+	-webkit-transform: translateX(0%);
+		-ms-transform: translateX(0%);
+			transform: translateX(0%);
+}
+.iis-effect-slide .iis-current-slide { opacity: 1; }
+.iis-effect-slide .iis-previous-slide {
+	-webkit-transform: translateX(-100%);
+		-ms-transform: translateX(-100%);
+    		transform: translateX(-100%);
+}
+.iis-effect-slide .iis-next-slide {
+	-webkit-transform: translateX(100%);
+		-ms-transform: translateX(100%);
+			transform: translateX(100%);
+}
+.iis-direction-previous.iis-effect-slide .iis-next-slide,
+.iis-direction-next.iis-effect-slide .iis-previous-slide { opacity: 1; }
+
+/* Fade effect */
+.iis-effect-fade .iis-slide {
+	-webkit-transition-property: opacity;
+	   -moz-transition-property: opacity;
+		 -o-transition-property: opacity;
+			transition-property: opacity;
+	-webkit-transition-timing-function: ease-in;
+	   -moz-transition-timing-function: ease-in;
+		 -o-transition-timing-function: ease-in;
+			transition-timing-function: ease-in;
+	opacity: 0;
+}
+.iis-effect-fade .iis-current-slide {
+	opacity: 1;
+}
+
+
+
+
+/* css for <footer> */
+footer {
+	width: 98%;
+	float:left;
+	padding: 1%;
+	background-color: white;
+	margin-top: 2em;
+}
+footer .footer-left { width: 45%; float:left; text-align:left; }
+footer .footer-right { width: 45%; float:right; text-align:right; }
+
+/*Nice simple responsive scripts here */
+/* ipad 768px */
+@media only screen and (min-width:470px) and (max-width:770px){
+body { background-color: red; } /*lets add some background color so we know which dimension we're in */
+#wrapper { width:96%; font-size: 0.6875em; }
+section.content, aside.sidebar { width:100%; }
+}
+
+/* iphone 468px */
+@media only screen and (min-width:270px) and (max-width:470px){
+body { background-color: yellow; } /*lets add some background color so we know which dimension we're in */
+#wrapper { width:96%; font-size: 0.6875em; }
+section.content, aside.sidebar { width:100%; }
+}
