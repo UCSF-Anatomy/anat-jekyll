@@ -33,7 +33,7 @@ permalink: /allen/
 // USER CONTENT HERE....
 	add_profiles_user_content('ProfilesURLName', 'christopher.allen');
 // for example try commenting out the line above, and uncommenting the line below
-// add_profiles_user_content('FNO', 'christopher.allen@ucsf.edu');
+// add_profiles_user_content('FNO', 'allan.basbaum@ucsf.edu');
 
 
 //PROFILES SCRIPT FUNCTIONS

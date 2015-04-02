@@ -1,27 +1,23 @@
-<!DOCTYPE html>
+---
+layout: page
+title: allan
+permalink: /allan/
+---
 <html>
-  <head>
-    <title>TESTING SAMPLE</title>
 
     <!-- load a recent version of jQuery -->
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 
-
-    <!-- get data from the UCSF Profiles API -->
-    <script>
-
+<!-- get data from the UCSF Profiles API -->
+<script> 
 // we're grabbing data from the UCSF Profiles JSON API v2
 // details at http://opendata.profiles.ucsf.edu/json-v2.html
 
-// we get the Profiles URL name from the URL, e.g. "http://profiles.ucsf.edu/jeanette.brown"
-// but you can also specify people by FNO, Profiles ID, Employee ID, etc.
-add_profiles_user_content('ProfilesURLName', 'jeffrey.bluestone');
-// for example try commenting out the line above, and uncommenting the line below
-// add_profiles_user_content('FNO', 'Jeffrey.Bluestone@ucsf.edu');
+add_profiles_user_content('ProfilesURLName', 'allan.basbaum');
 
 
 function add_profiles_user_content (identifier_type, identifier) {
-    $.getJSON('http://api.profiles.ucsf.edu/json/v2/?source=JSON_API_v2_example_script_change_this_in_your_own_app&' + identifier_type + '=' + identifier + '&publications=full&callback=?',
+    $.getJSON('http://api.profiles.ucsf.edu/json/v2/?source=JSON_API_v2_department of anatomy&' + identifier_type + '=' + identifier + '&publications=full&callback=?',
 	      function(response) {
 		  if (response) {
 		      if (response.error) { // if UCSF Profiles reports an error, can do something with that here
@@ -50,7 +46,7 @@ function add_profiles_user_content (identifier_type, identifier) {
 			      }
 			      if (data.Narrative) { // show narrative, if we have it
 				  // truncate text to 500 characters, and delete any partial last sentence
-			          var truncated_narrative = data.Narrative.substr(0,1500).replace(/[\s\r\n]/g, " ").replace(/^(.+\.[\s\n\r]).*?$/g, "$1");
+			          var truncated_narrative = data.Narrative.substr(0,500).replace(/[\s\r\n]/g, " ").replace(/^(.+\.[\s\n\r]).*?$/g, "$1");
 				  $('#profiles_narrative').show().text(truncated_narrative);
 			      } else {
 				  $('#profiles_narrative').hide();
@@ -103,7 +99,7 @@ function highlight_profiles_content (seconds) {
     }, ms);
 }
 
-    </script>
+</script>
   </head>
   <body>
     
@@ -129,36 +125,5 @@ function highlight_profiles_content (seconds) {
 
 
 	</div> <!-- /first column -->
-	<!-- end of content automatically grabbed from Profiles -->
 
-<!--
-
-	    <h5>2. Click to switch between users:</h5>
-
-	    <div class="btn-group-vertical">
-	      <a class="btn btn-default" href="javascript:void(0)" onclick="add_profiles_user_content('ProfilesURLName', 'jeanette.brown')">Show Jeanette Brown</a>
-	      <a class="btn btn-default" href="javascript:void(0)" onclick="add_profiles_user_content('ProfilesURLName', 'craig.cohen')">Show Craig Cohen</a>
-	      <a class="btn btn-default" href="javascript:void(0)" onclick="add_profiles_user_content('ProfilesURLName', 'mini.kahlon')">Show Mini Kahlon</a>
-	      <a class="btn btn-default" href="javascript:void(0)" onclick="add_profiles_user_content('ProfilesURLName', 'anirvan.chatterjee')">Show Anirvan Chatterjee</a>
-	      <a class="btn btn-default" href="javascript:void(0)" onclick="add_profiles_user_content('ProfilesURLName', 'sabine.mueller')">Show Sabine Müller</a>
-	      <a class="btn btn-default" href="javascript:void(0)" onclick="add_profiles_user_content('ProfilesURLName', 'rachael.sak')">Show Rachael Sak</a>
-	      <a class="btn btn-default" href="javascript:void(0)" onclick="add_profiles_user_content('ProfilesURLName', 'jeffrey.bluestone')">Show Jeff Bluestone</a>
-	    </div>
-
-	    <h5>3. Learn how it works:</h5>
-	    
-	    <ul>
-	      <li>View the HTML source for this page to see how we built it</li>
-	      <li>Explore the <a href="http://api.profiles.ucsf.edu/json/v2/?ProfilesURLName=jeanette.brown&amp;publications=full&source=JSON_API_v2_example_script_change_this_in_your_own_app">JSON output</a> from the API</li>
-	    </ul>
--->
-	    
-	  </div>
-	</div>
-
-
-      </div> <!-- /row -->
     </div> <!-- /container -->
-
-  </body>
-</html>
