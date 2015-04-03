@@ -15,6 +15,7 @@ Fax: 415 476-4845
 
 Staff          | Position                       | UCSF Directory   
 -------------  | ----------------------------   | ----------- 
+Larry Ackerman | Specialist						| [link](https://directory.ucsf.edu/?q=larry+ackerman)
 Trent Brown    | Technician Willed Body Program | [Link](https://directory.ucsf.edu/?q=Trent+Brown)
 Andrew Corson  | Coordinator Willed Body Program| [Link](https://directory.ucsf.edu/?q=Andrew+Corson)
 Meredith Donnelly | Assistant to Zena Werb and Jeroen Roose | [Link](https://directory.ucsf.edu/?q=Meredith+Donnelly)
@@ -32,3 +33,4 @@ Peter Werba	| Server Administration | [Link](https://directory.ucsf.edu/?q=Peter
 
 
 
+	

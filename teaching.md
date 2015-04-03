@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+![Mou icon](../img/ab-teach.jpg)
+
 #Links
 
 ___________________________________________________________________________________

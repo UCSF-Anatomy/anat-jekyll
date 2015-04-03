@@ -4,6 +4,8 @@ title: Faculty
 permalink: /faculty/
 ---
 
+![Mou icon](../img/banner.jpg) 
+
 #Anatomy Research Faculty
  
 [Allan Basbaum]({{ site.baseurl }}/basbaum), PhD 	Professor and Chair   [lab website](http://basbaumlab.ucsf.edu)
@@ -36,10 +38,8 @@ permalink: /faculty/
 
 [Zena Werb]({{ site.baseurl }}/werb), PhD 	Professor and Vice Chair	[lab website](http://werblab.ucsf.edu)	 
 
-#Anatomy Teaching
+# Teaching
 
-Larry Ackerman, 	[Specialist](https://directory.ucsf.edu/?q=larry+ackerman)
-  
 Nripendra Dhillon, 	[Lecturer](https://directory.ucsf.edu/?q=Nripendra+Dhillon)
 
 Annemarie Donjacour, 	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Annemarie+Donjacour) 
