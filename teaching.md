@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 
-[Larry Ackerman,] 	[Specialist](https://directory.ucsf.edu/?q=larry+ackerman)
+Larry Ackerman, 	[Specialist](https://directory.ucsf.edu/?q=larry+ackerman)
   
 Nripendra Dhillon, 	[Lecturer](https://directory.ucsf.edu/?q=Nripendra+Dhillon) 
 
