@@ -38,6 +38,10 @@ permalink: /faculty/
 
 #Anatomy Teaching
 
+Larry Ackerman, 	[Specialist](https://directory.ucsf.edu/?q=larry+ackerman)
+  
+Nripendra Dhillon, 	[Lecturer](https://directory.ucsf.edu/?q=Nripendra+Dhillon)
+
 Annemarie Donjacour, 	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Annemarie+Donjacour) 
 
 Amber Fitzsimmons,   [Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Amber+Fitzsimmons)

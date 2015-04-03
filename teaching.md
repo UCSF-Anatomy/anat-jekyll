@@ -4,12 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-
-Larry Ackerman, 	[Specialist](https://directory.ucsf.edu/?q=larry+ackerman)
-  
-Nripendra Dhillon, 	[Lecturer](https://directory.ucsf.edu/?q=Nripendra+Dhillon) 
-
-
 #Links
 
 ___________________________________________________________________________________
