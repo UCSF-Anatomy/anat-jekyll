@@ -30,9 +30,7 @@ permalink: /affiliated/
 ##Emeritus Faculty
 
 [Richard Breiman](http://profiles.ucsf.edu/richard.breiman), 	Emeritus
-	
-Joel Elias, 	Emeritus	 
-
+		 
 [Patricia Calarco](http://profiles.ucsf.edu/patricia.calarco), 	Emeritus
  	
 Robert Hamilton Jr, 	Emeritus
