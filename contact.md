@@ -3,6 +3,9 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+
+![parnassus heights photo](../img/ph.jpg) 
+
 ###Chair: Allan Basbaum
  
 ####Director: Maggie Millett

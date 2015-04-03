@@ -4,7 +4,7 @@ title: Faculty
 permalink: /faculty/
 ---
 
-![Mou icon](../img/banner.jpg) 
+![anatomy banner](../img/banner.jpg) 
 
 #Anatomy Research Faculty
  

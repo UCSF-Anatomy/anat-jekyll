@@ -4,7 +4,6 @@ title: Courses
 permalink: /courses/
 ---
 
-##Courses
 
 ###Course Listing for Anatomy
 
