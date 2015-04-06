@@ -21,34 +21,27 @@
 		<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>		
 </div>
 				
-			
-	<ul id="navigation">
-	 <li><a href="{{ site.baseurl }}/">Home</a></li>
-	 <li class="sub">
-
-	  <a href="{{ site.baseurl }}/faculty">Faculty</a>
-
-	  <ul>
-
-	   <li><a href="{{ site.baseurl }}/faculty">Faculty</a></li>
-	   <li><a href="{{ site.baseurl }}/affiliated">Affiliated and Emeritus</a></li>
-	   <li><a href="{{ site.baseurl }}/recent">Recent Honors</a></li>
-
-	  </ul>
-
-		<li class ="sub">
-			<a href="{{ site.baseurl }}/teaching">Teaching</a>
-	  <ul>
-
-		<li><a href="{{ site.baseurl }}/courses">Courses</a></li>
-	  </ul>
+<div id='cssmenu'>
+<ul>
+   <li><a href="{{ site.baseurl }}/"><span>Home</span></a></li>
+   <li class='active has-sub'><a href='#'><span>Faculty</span></a>
+      <ul>
+         <li class='has-sub'><a href="{{ site.baseurl }}/faculty"><span>Faculty</span></a>
+		 <li class='has-sub'><a href="{{ site.baseurl }}/affiliated"><span>Affiliated and Emeritus</span></a>
+		 <li class='has-sub'><a href="{{ site.baseurl }}/recent"><span>Recent Honors</span></a>
+    </li>
+      </ul>
+    <li class='has-sub'><a href="{{ site.baseurl }}/teaching"><span>Teaching</span></a>
+         <ul>
+            <li><a href="{{ site.baseurl }}/courses"><span>Courses</span></a>
 	</li>
-		<li><a href="{{ site.baseurl }}/links">Links</a></li>
-		<li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-		<li><a href="http://willedbodyprogram.ucsf.edu">Willed Body Program</a></li>
-
-	</ul>
-		
+		</ul>
+   <li><a href="{{ site.baseurl }}/links"><span>UCSF Links</span></a></li>
+   <li><a href="{{ site.baseurl }}/contact"><span>Contact</span></a></li>
+   <li><a href="http://willedbodyprogram.ucsf.edu"><span>Willed Body Program</span></a></li>
+</ul>
+</div>	
+	
 </header>
 
 
