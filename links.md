@@ -3,13 +3,11 @@ layout: page
 title: Listing of Useful Department Links
 permalink: /links/
 ---
+
 ![mission bay campus](../img/missionbay.jpg) 
 
-[Biomedical Sciences (BMS) Graduate Program](http://bms.ucsf.edu/)
 
-[Developmental Biology (Tetrad) Graduate Program](http://tetrad.ucsf.edu)
-
-[Herbert W. Boyer Program in Biological Sciences (PIBS)](http://pibs.ucsf.edu/pibs/home.html)
+### UCSF Links
 
 [Stem Cell](http://irm.ucsf.edu/)
 
