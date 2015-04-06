@@ -10,7 +10,7 @@ permalink: /faculty/
 
 [Allan Basbaum]({{ site.baseurl }}/basbaum), PhD 	Professor and Chair   [lab website](http://basbaumlab.ucsf.edu)
 
-Nripendra Dhillon, 	[Lecturer](https://directory.ucsf.edu/?q=Nripendra+Dhillon)
+Nripendra Dhillon, MBBS, MS [Lecturer](https://directory.ucsf.edu/?q=Nripendra+Dhillon)
 
 Annemarie Donjacour, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Annemarie+Donjacour) 
 
