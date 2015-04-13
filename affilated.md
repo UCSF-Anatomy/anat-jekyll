@@ -4,6 +4,8 @@ title: Affiliated and Emeritus Faculty
 permalink: /affiliated/
 ---
 
+![PH arneson](../img/arneson.jpg)
+
 ##Affiliated Faculty
 
 [Rosemary Akhurst](http://profiles.ucsf.edu/rosemary.akhurst), 	 Cancer Research Institute
