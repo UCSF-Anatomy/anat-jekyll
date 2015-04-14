@@ -52,6 +52,8 @@ Peter Ralston, 	Emeritus
 [Steven Rosen](/rosen), PhD 	Emeritus  
 
 Douglas Schmucker, 	Emeritus
+
+Sexton Sutherland, Emeritus
 		 
 Steven Wissig, 	Emeritus
 
