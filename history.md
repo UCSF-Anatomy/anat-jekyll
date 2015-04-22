@@ -25,7 +25,7 @@ The Department of Anatomy had its beginnings in Toland Medical College, which wa
 - 1967 – 1968	Dr. C. Willet Asling
 - 1970 – 1973	Dr. Jacob de Groot
 - 1973 – 1997	Dr. Henry J. Ralston III
- -1997 - 	Dr. Allan Basbaum
+- 1997 - 	Dr. Allan Basbaum
 
 At the turn of the century, Dr. J. Marshall Flint, with the assistance of Drs. R. O. Moody and Irving Hardesty, undertook extensive reorganization of the teaching program and established courses in histology, microscopic organology, neurology, regional anatomy, and organogenesis. As well as special courses for physicians and advanced students; opportunities were also provided for capable students to undertake research.
 
