@@ -42,7 +42,9 @@ Audra Schutte, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=A
 
 [Nirao Shah]({{ site.baseurl }}/shah), MD, PhD 	 Professor 	[lab website](http://shahlab.ucsf.edu/) 
 
-Betty Smoot, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=betty+smoot)  
+Betty Smoot, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=betty+smoot)
+
+[Julie Sneddon]({{ site.baseurl }}/sneddon), MD, PhD 	Assistant Professor 
 
 [Eric Snyder]({{ site.baseurl }}/snyder), MD, PhD 	Assistant Professor 	
 
