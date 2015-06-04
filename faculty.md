@@ -18,7 +18,7 @@ Amber Fitzsimmons, PhD  [Assistant Adjunct Professor](https://directory.ucsf.edu
   
 [Corey Goodman]({{ site.baseurl }}/goodman), PhD Adjunct Professor	  
 
-[Carolyn Larabell]({{ site.baseurl }}/larabell), PhD 	Professor	[lab website](http://ncxt.lbl.gov/)  
+[Carolyn Larabell]({{ site.baseurl }}/larabell), PhD 	Professor and Vice Chair	[lab website](http://ncxt.lbl.gov/)  
 
 [Matthew LaVail]({{ site.baseurl }}/lavail), PhD 	Professor	  
 
