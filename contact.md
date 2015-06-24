@@ -27,7 +27,7 @@ Josie Gonzales	   | Grants Administrator		|     [Link](https://directory.ucsf.ed
 Michelle Liu	  | Course Analyst			| [Link](https://directory.ucsf.edu/?q=Michelle+Liu)
 Laurie Long   |  Assistant to Donald McDonald | [Link](https://directory.ucsf.edu/?q=Laurie+Long)
 Karl McElroy  | Technician Willed Body Program | [Link](https://directory.ucsf.edu/?q=Karl+McElroy)
-Mayra Melville	| Assistant to Professors Nystul, Rock, Shah, Villeda  | [Link](https://directory.ucsf.edu/?q=Mayra+Melville)
+Mayra Melville	| Assistant to Professors Feinberg, Nystul, Rock, Shah, Villeda  | [Link](https://directory.ucsf.edu/?q=Mayra+Melville)
 Maggie Millett | Director	| [Link](https://directory.ucsf.edu/?q=Maggie+Millett)
 Lisa Poon	| Operations Analyst | [Link](https://directory.ucsf.edu/?q=lisa+poon)
 Beth Sudekum	| Assistant to Allan Basbaum | [Link](https://directory.ucsf.edu/?q=Beth+Sudekum)

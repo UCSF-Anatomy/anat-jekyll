@@ -12,11 +12,15 @@ permalink: /faculty/
 
 Nripendra Dhillon, MBBS, MS [Lecturer](https://directory.ucsf.edu/?q=Nripendra+Dhillon)
 
+Evan Feinberg, PhD [Assistant Professor](https://directory.ucsf.edu/people/search/id/112949)
+
 Annemarie Donjacour, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Annemarie+Donjacour) 
 
 Amber Fitzsimmons, PhD  [Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Amber+Fitzsimmons)
   
-[Corey Goodman]({{ site.baseurl }}/goodman), PhD Adjunct Professor	  
+[Corey Goodman]({{ site.baseurl }}/goodman), PhD Adjunct Professor
+
+Derek Harmon, PhD [Assistant Adjunct Professor](https://directory.ucsf.edu/people/search/id/113046)	  
 
 [Carolyn Larabell]({{ site.baseurl }}/larabell), PhD 	Professor and Vice Chair	[lab website](http://ncxt.lbl.gov/)  
 
@@ -30,15 +34,15 @@ Amber Fitzsimmons, PhD  [Assistant Adjunct Professor](https://directory.ucsf.edu
 
 [Todd Nystul]({{ site.baseurl }}/nystul), PhD 	Assistant Professor		[lab website](http://nystullab.ucsf.edu/) 
 
-Peter Ohara, PhD	[Professor in Residence](https://directory.ucsf.edu/?q=peter+ohara)  
+Peter Ohara, PhD	[Professor in Residence](https://directory.ucsf.edu/?q=peter+ohara) 
+
+Rushika Perera, PhD [Assistant Professor](https://directory.ucsf.edu/?q=Rushika+Perera)
 
 [Jason Rock]({{ site.baseurl }}/rock), PhD 	Assistant Professor	   [lab website](http://rocklab.ucsf.edu/) 
 
 Dana Rohde, PhD	 [Adjunct Professor](https://directory.ucsf.edu/?q=Dana+Rohde)   
 
 [Jeroen Roose]({{ site.baseurl }}/roose), PhD 	Associate Professor		[lab website](http://rooselab.ucsf.edu)  
-
-Audra Schutte, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Audra+Schutte) 
 
 [Nirao Shah]({{ site.baseurl }}/shah), MD, PhD 	 Professor 	[lab website](http://shahlab.ucsf.edu/) 
 
