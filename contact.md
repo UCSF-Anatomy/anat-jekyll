@@ -24,7 +24,7 @@ Andrew Corson  | Director Willed Body Program| [Link](https://directory.ucsf.edu
 Meredith Donnelly | Assistant to Zena Werb and Jeroen Roose | [Link](https://directory.ucsf.edu/?q=Meredith+Donnelly)
 Mary Ann Donohue  | Administrative Analyst		          | [Link](https://directory.ucsf.edu/?q=Mary+Ann+Donohue)
 Josie Gonzales	   | Grants Administrator		|     [Link](https://directory.ucsf.edu/?q=maryann+donohue)
-Michelle Liu	  | Course Analyst			| [Link](https://directory.ucsf.edu/?q=Michelle+Liu)
+
 Laurie Long   |  Assistant to Donald McDonald | [Link](https://directory.ucsf.edu/?q=Laurie+Long)
 Karl McElroy  | Technician Willed Body Program | [Link](https://directory.ucsf.edu/?q=Karl+McElroy)
 Mayra Melville	| Assistant to Professors Feinberg, Nystul, Rock, Shah, Villeda  | [Link](https://directory.ucsf.edu/?q=Mayra+Melville)
