@@ -21,6 +21,8 @@ permalink: /affiliated/
 [Nancy McNamara](http://profiles.ucsf.edu/nancy.mcnamara), 	Proctor Foundation
 	
 [Takashi Mikawa](http://profiles.ucsf.edu/takashi.mikawa), 	CVRI
+
+[Julie Sneddon]({{ site.baseurl }}/sneddon),  Diabetes center
 	
 [Valerie Weaver](http://profiles.ucsf.edu/valerie.weaver), 	Surgery
 	

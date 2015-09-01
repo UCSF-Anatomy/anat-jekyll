@@ -36,7 +36,9 @@ Derek Harmon, PhD [Assistant Adjunct Professor](https://directory.ucsf.edu/peopl
 
 Peter Ohara, PhD	[Professor in Residence](https://directory.ucsf.edu/?q=peter+ohara) 
 
-Rushika Perera, PhD [Assistant Professor](https://directory.ucsf.edu/?q=Rushika+Perera)
+Rushika Perera, PhD [Assistant Professor](https://directory.ucsf.edu/?q=Rushika+Perera) [lab website](http://www.rushikapereralab.com/)
+
+
 
 [Jason Rock]({{ site.baseurl }}/rock), PhD 	Assistant Professor	   [lab website](http://rocklab.ucsf.edu/) 
 
@@ -47,8 +49,6 @@ Dana Rohde, PhD	 [Adjunct Professor](https://directory.ucsf.edu/?q=Dana+Rohde)
 [Nirao Shah]({{ site.baseurl }}/shah), MD, PhD 	 Professor 	[lab website](http://shahlab.ucsf.edu/) 
 
 Betty Smoot, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=betty+smoot)
-
-[Julie Sneddon]({{ site.baseurl }}/sneddon), MD, PhD 	Assistant Professor 
 
 [Eric Snyder]({{ site.baseurl }}/snyder), MD, PhD 	Assistant Professor 	
 
