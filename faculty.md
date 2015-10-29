@@ -18,7 +18,7 @@ Annemarie Donjacour, PhD	[Assistant Adjunct Professor](https://directory.ucsf.ed
 
 Amber Fitzsimmons, PhD  [Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Amber+Fitzsimmons)
   
-[Corey Goodman]({{ site.baseurl }}/goodman), PhD Adjunct Professor
+
 
 Derek Harmon, PhD [Assistant Adjunct Professor](https://directory.ucsf.edu/people/search/id/113046)	  
 
@@ -39,7 +39,6 @@ Peter Ohara, PhD	[Professor in Residence](https://directory.ucsf.edu/?q=peter+oh
 Rushika Perera, PhD [Assistant Professor](https://directory.ucsf.edu/?q=Rushika+Perera) [lab website](http://www.rushikapereralab.com/)
 
 
-
 [Jason Rock]({{ site.baseurl }}/rock), PhD 	Assistant Professor	   [lab website](http://rocklab.ucsf.edu/) 
 
 Dana Rohde, PhD	 [Adjunct Professor](https://directory.ucsf.edu/?q=Dana+Rohde)   
@@ -50,11 +49,9 @@ Dana Rohde, PhD	 [Adjunct Professor](https://directory.ucsf.edu/?q=Dana+Rohde)
 
 Betty Smoot, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=betty+smoot)
 
-[Eric Snyder]({{ site.baseurl }}/snyder), MD, PhD 	Assistant Professor 	
-
 Kimberly Topp, PhD	[Professor](https://directory.ucsf.edu/?q=Kimberly+Topp)  
 
-[Saul Villeda]({{ site.baseurl }}/villeda), PhD 	Fellow 	[lab website](http://villedalab.ucsf.edu/) 
+[Saul Villeda]({{ site.baseurl }}/villeda),PhD	UCSF Fellow 	[lab website](http://villedalab.ucsf.edu/) 
 
 [Zena Werb]({{ site.baseurl }}/werb), PhD 	Professor and Vice Chair	[lab website](http://werblab.ucsf.edu)	 
 
