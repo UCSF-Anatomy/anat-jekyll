@@ -51,7 +51,7 @@ Roger Pedersen, 	Emeritus
 		 
 Peter Ralston, 	Emeritus
 
-[Steven Rosen](/rosen), PhD 	Emeritus  
+[Steven Rosen](/rosen), Emeritus  
 
 Douglas Schmucker, 	Emeritus
 
