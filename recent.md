@@ -20,9 +20,9 @@ Amber Fitzsimmons
 
 Kimberly Topp 
 
-President of the American Association of Anatomists in March 2015
+2015 Honorary Fellow of the Anatomical Society (Great Britan and Ireland)
 
-
+2015 President of the American Association of Anatomists
 
 
 ----------
