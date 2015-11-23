@@ -24,3 +24,6 @@ permalink: /links/
 [UCSF Shuttle Schedle "next bus"](https://www.nextbus.com/#!/ucsf)
 
 [S-1332 Conference Room](http://mail.ucsf.edu/OWA/calendar/375786cfe4aa44149720b46efb52030a@ucsf.edu/9caa67880e074f3986921ec90853a78018092195176913566149/calendar.html)
+
+[UC Learning Center](http://learning.ucsf.edu/)
+[Learning Ceneter Brochure download](../img/LC.pdf)
