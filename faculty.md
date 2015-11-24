@@ -12,14 +12,12 @@ permalink: /faculty/
 
 Nripendra Dhillon, MBBS, MS [Lecturer](https://directory.ucsf.edu/?q=Nripendra+Dhillon)
 
-Evan Feinberg, PhD [Assistant Professor](https://directory.ucsf.edu/people/search/id/112949)
+[Evan Feinberg]({{ site.baseurl }}/feinberg), PhD [Assistant Professor](https://directory.ucsf.edu/people/search/id/112949) [lab website](http://www.evanfeinberglab.com/)
 
 Annemarie Donjacour, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Annemarie+Donjacour) 
 
 Amber Fitzsimmons, PhD  [Assistant Adjunct Professor](https://directory.ucsf.edu/?q=Amber+Fitzsimmons)
   
-
-
 Derek Harmon, PhD [Assistant Adjunct Professor](https://directory.ucsf.edu/people/search/id/113046)	  
 
 [Carolyn Larabell]({{ site.baseurl }}/larabell), PhD 	Professor and Vice Chair	[lab website](http://ncxt.lbl.gov/)  
@@ -36,8 +34,7 @@ Derek Harmon, PhD [Assistant Adjunct Professor](https://directory.ucsf.edu/peopl
 
 Peter Ohara, PhD	[Professor in Residence](https://directory.ucsf.edu/?q=peter+ohara) 
 
-Rushika Perera, PhD [Assistant Professor](https://directory.ucsf.edu/?q=Rushika+Perera) [lab website](http://www.rushikapereralab.com/)
-
+[Rushika Perera]({{ site.baseurl }}/perera), PhD [Assistant Professor](https://directory.ucsf.edu/?q=Rushika+Perera) [lab website](http://www.rushikapereralab.com/)
 
 [Jason Rock]({{ site.baseurl }}/rock), PhD 	Assistant Professor	   [lab website](http://rocklab.ucsf.edu/) 
 
