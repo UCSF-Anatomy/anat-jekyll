@@ -22,6 +22,8 @@ permalink: /affiliated/
 	
 [Takashi Mikawa](http://profiles.ucsf.edu/takashi.mikawa), 	CVRI
 
+[Licia Selleri]							Orofacial Sciences
+
 [Julie Sneddon]({{ site.baseurl }}/sneddon),  Diabetes center
 	
 [Valerie Weaver](http://profiles.ucsf.edu/valerie.weaver), 	Surgery
