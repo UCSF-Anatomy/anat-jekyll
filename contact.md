@@ -21,7 +21,6 @@ Staff          | Position                       | UCSF Directory
 Larry Ackerman | Specialist						| [Link](https://directory.ucsf.edu/?q=larry+ackerman)
 Trent Brown    | Technician Willed Body Program | [Link](https://directory.ucsf.edu/?q=Trent+Brown)
 Andrew Corson  | Director Willed Body Program| [Link](https://directory.ucsf.edu/?q=Andrew+Corson)
-Meredith Donnelly | Assistant to Zena Werb and Jeroen Roose | [Link](https://directory.ucsf.edu/?q=Meredith+Donnelly)
 Mary Ann Donohue  | Administrative Analyst		          | [Link](https://directory.ucsf.edu/?q=Mary+Ann+Donohue)
 Josie Gonzales	   | Grants Administrator		|     [Link](https://directory.ucsf.edu/?q=maryann+donohue)
 Laurie Long   |  Assistant to Donald McDonald | [Link](https://directory.ucsf.edu/?q=Laurie+Long)
