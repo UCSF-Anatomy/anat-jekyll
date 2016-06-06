@@ -4,9 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-![Mou icon](../img/ab-teach.jpg)
+![Allan Teaching](../img/ab-teach.jpg)
 
-#Links
+# Links
 
 ___________________________________________________________________________________
 [Anatomy Course Catalog](http://coursecatalog.ucsf.edu/anatomy)

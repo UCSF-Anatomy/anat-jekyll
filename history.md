@@ -4,7 +4,7 @@ title: History
 permalink: /history/
 ---
 
-##HISTORICAL DEVELOPMENT
+## HISTORICAL DEVELOPMENT
 
 The Department of Anatomy had its beginnings in Toland Medical College, which was founded in 1864, and became the Medical Department of the University of California in 1873.  Insofar as can be determined from the records available in its history of over one hundred years, there have been the following chairmen:
 

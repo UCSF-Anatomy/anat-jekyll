@@ -4,9 +4,9 @@ title: Affiliated and Emeritus Faculty
 permalink: /affiliated/
 ---
 
-![PH arneson](../img/arneson.jpg)
+![PH arneson statue](../img/arneson.jpg)
 
-##Affiliated Faculty
+## Affiliated Faculty
 
 [Rosemary Akhurst](http://profiles.ucsf.edu/rosemary.akhurst), 	 Cancer Research Institute
 	
@@ -22,7 +22,7 @@ permalink: /affiliated/
 	
 [Takashi Mikawa](http://profiles.ucsf.edu/takashi.mikawa), 	CVRI
 
-[Licia Selleri],						Orofacial Sciences
+[Licia Selleri](http://profiles.ucsf.edu/licia.selleri),   Orofacial Sciences
 
 [Julie Sneddon]({{ site.baseurl }}/sneddon),  Diabetes center
 	
@@ -33,7 +33,7 @@ permalink: /affiliated/
 [Shinya Yamanaka](http://profiles.ucsf.edu/shinya.yamanaka),	Gladstone Institute	
 
 
-##Emeritus Faculty
+## Emeritus Faculty
 
 [Richard Breiman](http://profiles.ucsf.edu/richard.breiman), 	Emeritus
 		 

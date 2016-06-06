@@ -5,7 +5,7 @@ permalink: /courses/
 ---
 
 
-###Course Listing for Anatomy
+### Course Listing for Anatomy
 
 115  Histology (2 units) Winter
 The primary goal of the course is to introduce you to the structural features of cells, tissues and organs so that you can more readily understand the functional aspects of human biology, a subject that will be further pursued in your courses in physiology later in the curriculum.
@@ -19,7 +19,7 @@ Individual/group dissection.  Advance review of gross anatomy.  Intended as a bl
 170.01  Medical Scholars Program Workshop (1 unit) Fall, Spring
 Workshops in anatomy and neuroanatomy, offered concurrent to the first-year course, will present challenging material in the form of problem sets which students will solve in groups.  Material, geared toward high-achieving students, will augment basic coursework with clinical and basic science information. 
 
-###Anatomy Course Catalog
+### Anatomy Course Catalog
 
 ___________________________________________________________________________________
 
@@ -31,7 +31,7 @@ This required course will provide students with the fundamental principals they 
 104 Brain, Mind & behavior: Topics in Neuroscience (12 units) Spring
 This required course will provide an overall survey of general principles in neuroscience, neurology, psychiatry, neuropatholog, and neuropharmacology, as well as an in-depth study of the most common neurological and psychiatric disorders.  Issues in ethics, genetics, culture and behavior will also be prominent in this block.
 
-###Links
+### Links
 
 ___________________________________________________________________________________
 [Anatomy Course Catalog](http://coursecatalog.ucsf.edu/anatomy)

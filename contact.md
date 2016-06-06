@@ -6,9 +6,9 @@ permalink: /contact/
 
 ![parnassus heights photo](../img/ph.jpg) 
 
-###Chair: Allan Basbaum
+### Chair: Allan Basbaum
  
-####Director: Maggie Millett
+#### Director: Maggie Millett
 
 513 Parnassus Avenue, S-1334  
 Box 0452  
@@ -18,7 +18,6 @@ Fax: 415 476-4845
 
 Staff          | Position                       | UCSF Directory   
 -------------  | ----------------------------   | ----------- 
-Larry Ackerman | Specialist						| [Link](https://directory.ucsf.edu/?q=larry+ackerman)
 Trent Brown    | Technician Willed Body Program | [Link](https://directory.ucsf.edu/?q=Trent+Brown)
 Andrew Corson  | Director Willed Body Program| [Link](https://directory.ucsf.edu/?q=Andrew+Corson)
 Andy Dang  | Assistant to Zena Werb, Jeroen Roose, Rushika Perera, Saul Villeda| [Link](https://directory.ucsf.edu/?q=Andy+Dang)
