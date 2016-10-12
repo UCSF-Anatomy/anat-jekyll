@@ -42,8 +42,6 @@ Dana Rohde, PhD	 [Adjunct Professor](https://directory.ucsf.edu/?q=Dana+Rohde)
 
 [Jeroen Roose]({{ site.baseurl }}/roose), PhD 	Associate Professor		[lab website](http://rooselab.ucsf.edu)  
 
-[Nirao Shah]({{ site.baseurl }}/shah), MD, PhD 	 Professor 	Moved to [Stanford](http://www.stanford.edu/) 
-
 Betty Smoot, PhD	[Assistant Adjunct Professor](https://directory.ucsf.edu/?q=betty+smoot)
 
 Kimberly Topp, PhD	[Professor](https://directory.ucsf.edu/?q=Kimberly+Topp)  
