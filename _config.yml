@@ -1,10 +1,7 @@
 # Site settings
 title: Department of Anatomy
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-The Department of Anatomy includes 23 faculty members with primary full-time appointments, 16 faculty
-with joint appointments, and about 200 postdoctoral fellows and students engaged in research that covers
-questions in cell biology, developmental biology and the neurosciences
+#email: your-email@domain.com
+description: The Department of Anatomy includes 23 faculty members with primary full-time appointments, 16 faculty with joint appointments, and about 200 postdoctoral fellows and students engaged in research that covers questions in cell biology, developmental biology and the neurosciences
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anatomy.ucsf.edu/" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
