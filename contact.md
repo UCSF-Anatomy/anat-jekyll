@@ -20,7 +20,11 @@ Staff          | Position                       | UCSF Directory
 -------------  | ----------------------------   | -----------
 Andrew Corson  | Director Willed Body Program| [Link](https://directory.ucsf.edu/?q=Andrew+Corson)
 Andy Dang  | Assistant to Zena Werb, Jeroen Roose, Rushika Perera, Jason Rock, Saul Villeda| [Link](https://directory.ucsf.edu/?q=Andy+Dang)
+<<<<<<< HEAD
 Claudette Delva	| Willed Body Technician | [Link](https://directory.ucsf.edu/?q=Claudette+Delva)
+=======
+Claudette Delva Blanco	| Willed Body Technician | [Link](https://directory.ucsf.edu/?q=Claudette+Delva) 
+>>>>>>> origin/gh-pages
 Linda Toschi-Chambers	|	Assistant to Allan Basbaum, Carolyn Larabell, Evan Feinberg, Nirao Shah | [Link](https://directory.ucsf.edu/?q=Linda+Toschi-Chambers)
 Josie Gonzales	   | Grants Administrator		|     [Link](https://directory.ucsf.edu/?q=josie+gonzales)
 Minerva Lee	|	Teaching Support	|	[Link](https://directory.ucsf.edu/?q=minerva+lee)

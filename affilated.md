@@ -18,6 +18,8 @@ permalink: /affiliated/
 
 [Douglas Gould](http://profiles.ucsf.edu/douglas.gould), 	Ophthalmology
 
+[Diana Laird](http://profiles.ucsf.edu/diana.laird), Ob/Gyn, Reproductive Sciences
+
 [Nancy McNamara](http://profiles.ucsf.edu/nancy.mcnamara), 	UC Berkley
 
 [Takashi Mikawa](http://profiles.ucsf.edu/takashi.mikawa), 	CVRI
